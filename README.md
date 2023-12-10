@@ -5,7 +5,7 @@ Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre abe
  ## 🌱 Atualmente aprendendo 
  HTML e CSS, JavaScript
   
-## Contato
+## 📫 Contato
 
 Você pode entrar em contato comigo nas seguintes redes sociais:
 
