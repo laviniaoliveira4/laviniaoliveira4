@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá! Eu sou a Lavínia Oliveira 👋
 
-<!--
-**laviniaoliveira4/laviniaoliveira4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre aberta para adquirir novos conhecimentos e habilidades. 
 
-Here are some ideas to get you started:
+ ## 🌱 Atualmente aprendendo 
+ HTML e CSS, JavaScript
+  
+## Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo nas seguintes redes sociais:
+
+Linkedin: https://www.linkedin.com/in/lav%C3%ADnia-oliveira-b49310263/ 
+
+Email: laviniaoliveirasilva34@gmail.com
+
+##
+<div align="center">
+  <br/>
+  <br/>
+  <br/>
+    <div
+      <sub>Copyright © 2023 - <a href="https://github.com/laviniaoliveira4">laviniaoliveira4</sub></a>
+    </div>
+    <br/>
+    💖
+</div>
+
+          
+          
