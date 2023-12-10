@@ -7,8 +7,6 @@ Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre abe
   
 ## 📫 Contato
 
-Você pode entrar em contato comigo nas seguintes redes sociais:
-
 Linkedin: https://www.linkedin.com/in/lav%C3%ADnia-oliveira-b49310263/ 
 
 Email: laviniaoliveirasilva34@gmail.com
