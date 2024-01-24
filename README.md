@@ -22,6 +22,10 @@ Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre abe
   
 ## 📫 Contato
 
+Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma dúvida ou feedback ⤵️
+
+
+
  <div> 
   <a href="https://instagram.com/_oliveiralavinia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laviniaoliveirasilva34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
