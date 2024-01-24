@@ -3,7 +3,7 @@
 Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre aberta para adquirir novos conhecimentos e habilidades. 
 
  ## 🌱 Atualmente aprendendo 
- HTML e CSS, JavaScript
+ HTML, CSS, JavaScript e Java
   
 ## 📫 Contato
 
