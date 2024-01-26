@@ -1,7 +1,7 @@
 ### Hi there, I´m Lavínia Oliveira 👋
-
-Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre aberta para adquirir novos conhecimentos e habilidades. 
-
+##
+Estudante de Sistemas de Informação e com foco em desenvolvimento web. Busco adquirir, aplicar e aprimorar meus conhecimentos na área de TI que é muito abrangente e está em constante evolução. Procuro aperfeiçoar minhas Soft Skills a cada dia, e me considero uma pessoa disciplinada, responsável e dedicada.
+##
 </div>
 <div>
    <a href="https://github.com/laviniaoliveira4">
