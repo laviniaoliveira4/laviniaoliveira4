@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lavínia Oliveira 👋
+### Hi there, I´m Lavínia Oliveira 👋
 
 Estudante de Sistemas de Informação. Sou uma aluna dedicada e estou sempre aberta para adquirir novos conhecimentos e habilidades. 
 
