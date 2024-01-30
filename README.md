@@ -1,6 +1,7 @@
 ### Hi there, I´m Lavínia Oliveira 👋
 ##
 Estudante de Sistema de informação com foco na área de desenvolvimento web.
+
 Busco adquirir, aplicar e aprimorar meus conhecimentos na área de Tecnologia, que é muito abrangente e está em constante evolução. Procuro aperfeiçoar minhas Soft Skills a cada dia, e me considero uma pessoa disciplinada, responsável e dedicada.
 
 ##
