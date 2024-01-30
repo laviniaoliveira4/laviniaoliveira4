@@ -1,8 +1,10 @@
 ### Hi there, I´m Lavínia Oliveira 👋
 ##
-Tenho 18 anos e estudante de Sistemas de Informação.
-Busco adquirir, aplicar e aprimorar meus conhecimentos na área de Tecnologia que é muito abrangente e está em constante evolução. Procuro aperfeiçoar minhas Soft Skills a cada dia, e me considero uma pessoa disciplinada, responsável e dedicada.
+Estudante de Sistema de informação com foco na área de desenvolvimento web.
+Busco adquirir, aplicar e aprimorar meus conhecimentos na área de Tecnologia, que é muito abrangente e está em constante evolução. Procuro aperfeiçoar minhas Soft Skills a cada dia, e me considero uma pessoa disciplinada, responsável e dedicada.
+
 ##
+
 <div>
    <a href="https://github.com/laviniaoliveira4">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaoliveira4&layout=compact&langs_count=6&theme=tokyonight"/>
