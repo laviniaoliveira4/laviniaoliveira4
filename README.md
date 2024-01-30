@@ -3,10 +3,8 @@
 Tenho 18 anos e estudante de Sistemas de Informação
 Busco adquirir, aplicar e aprimorar meus conhecimentos na área de TI que é muito abrangente e está em constante evolução. Procuro aperfeiçoar minhas Soft Skills a cada dia, e me considero uma pessoa disciplinada, responsável e dedicada.
 ##
-</div>
 <div>
    <a href="https://github.com/laviniaoliveira4">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laviniaoliveira4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaoliveira4&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
@@ -20,12 +18,10 @@ Busco adquirir, aplicar e aprimorar meus conhecimentos na área de TI que é mui
 </div>
  
 <br>
-  
+      
 ## 📫 Contato
 
 Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma dúvida ou feedback ⤵️
-
-
 
  <div> 
   <a href="https://instagram.com/_oliveiralavinia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
