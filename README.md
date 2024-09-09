@@ -1,4 +1,4 @@
-### Hi there, I´m Lavínia Oliveira 👋
+### Olá! Meu nome é Lavínia Oliveira 👋
 ##
 Estudante de Sistema de informação com foco na área de desenvolvimento web.
 
